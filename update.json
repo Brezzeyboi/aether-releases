@@ -1,11 +1,11 @@
 {
-  "version": "v0.2.9",
-  "notes": "Update v0.2.9",
-  "pub_date": "2026-01-11T12:40:27.161Z",
+  "version": "v1.0.0",
+  "notes": "Update v1.0.0",
+  "pub_date": "2026-01-12T05:55:52.764Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabVozeUk0eFovMkZKRmZHc1NBWk1Eak9CYUs4U09aNG9tN2pTSXpqaGl0cG1JU0NtN2JmbTltN0FLQmxjMzJnVTFFTEV1YWg1SnRMRE9mb2pyajJhTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MTM1MjIwCWZpbGU6QWV0aGVyIExhdW5jaGVyXzAuMi45X3g2NC1zZXR1cC5leGUKMGlaS0hFRWZkTWUvOE5pUktoZzAwdkxUTkxXQnV3VWx6bFp3NTdheS9UdzhURTVBNUZocU0yR0NPYlRMWHBpMzE1c2dEWDN1SnZKZWFKZ0RSYkxrQkE9PQo=",
-      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v0.2.9/Aether.Launcher_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabWFNOG1pcDduYkszVmROMVlxcXYxWUZqb2JIcUM5UjhUZjEzS0w2Ymo0K29mNHZsN2J2TUEray9CYUpNOG5PbkYxa0N2Ny83ejRTS1V3aFRxaXJCVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MTk3MzQzCWZpbGU6QWV0aGVyIExhdW5jaGVyXzEuMC4wX3g2NC1zZXR1cC5leGUKeHNaV0RiS0dyY1pZMHhHcXlDaXViUHcvRkJzeEJ5aERvVDJLTDFWK0h3STU4eGFaeVNaNXJwWmhvdVlrK2ZtVWV2Y0RBNDc1MWREVTN1WHRrVVJuQmc9PQo=",
+      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v1.0.0/Aether.Launcher_1.0.0_x64-setup.exe"
     }
   }
 }

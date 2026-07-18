@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0-alpha-8",
-  "notes": "Update v1.0.0-alpha-8",
-  "pub_date": "2026-03-05T13:41:11.504Z",
+  "version": "v1.0.0-beta-1",
+  "notes": "**Full Changelog**: https://github.com/Brezzeyboi/eclipse-releases/compare/v1.0.0-alpha-8...v1.0.0-beta-1",
+  "pub_date": "2026-07-18T12:17:47.661Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabVNIQXg0dHdPRWRYVlV3bTNNSXBnaWZSMFUvV2NXYXlYOWRwL3h0YXRMdkUwSksrSmx4RWJ3YTI1Y2dabS9JY05XYWkwZnNmN2d3VVlTU1VUbEN0bHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzE4MDY0CWZpbGU6RWNsaXBzZSBMYXVuY2hlcl8xLjAuMC1hbHBoYS04X3g2NC1zZXR1cC5leGUKQkNLdFVJTHczcXRLK1pxOFMxMFNKaW5tSlJldk1CbmYraitoaDN6QTFTNVQ4MFNKbTMvT3BUVDZjTjFKaGdETGxzUTNzQ01aY2hzYVd1VXBjY1pwQkE9PQo=",
-      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v1.0.0-alpha-8/Eclipse.Launcher_1.0.0-alpha-8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabVNFNUxCZUNFV1A0bWcxNnZZZzcyVUV5WFBOc0xWdUZMZ0ZmUndSdU9qdzJUWjVIL005eFZOUDhDR0VURVZDa0tzeXdPZXlmMHFJdm1JaHV3N3l0MEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc3MDU1CWZpbGU6RWNsaXBzZSBMYXVuY2hlcl8xLjAuMC1iZXRhLTFfeDY0LXNldHVwLmV4ZQpwYmY2c2xOMHFPdHRnNFJQdDZqc0pUNTluaFlBOXJuWVFWVlBhQUJLVE9hTmRPS1VTOXhZUUdjTndvNGFEVkFiTU1jc2JCRjd2OVgxZk1jN2tPU3dEQT09Cg==",
+      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v1.0.0-beta-1/Eclipse.Launcher_1.0.0-beta-1_x64-setup.exe"
     }
   }
 }

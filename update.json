@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0-beta-1",
-  "notes": "**Full Changelog**: https://github.com/Brezzeyboi/eclipse-releases/compare/v1.0.0-alpha-8...v1.0.0-beta-1",
-  "pub_date": "2026-07-18T12:17:47.661Z",
+  "version": "v1.0.0-beta-2",
+  "notes": "**Full Changelog**: https://github.com/Brezzeyboi/eclipse-releases/compare/v1.0.0-beta-1...v1.0.0-beta-2",
+  "pub_date": "2026-07-19T12:25:56.332Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabVNFNUxCZUNFV1A0bWcxNnZZZzcyVUV5WFBOc0xWdUZMZ0ZmUndSdU9qdzJUWjVIL005eFZOUDhDR0VURVZDa0tzeXdPZXlmMHFJdm1JaHV3N3l0MEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc3MDU1CWZpbGU6RWNsaXBzZSBMYXVuY2hlcl8xLjAuMC1iZXRhLTFfeDY0LXNldHVwLmV4ZQpwYmY2c2xOMHFPdHRnNFJQdDZqc0pUNTluaFlBOXJuWVFWVlBhQUJLVE9hTmRPS1VTOXhZUUdjTndvNGFEVkFiTU1jc2JCRjd2OVgxZk1jN2tPU3dEQT09Cg==",
-      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v1.0.0-beta-1/Eclipse.Launcher_1.0.0-beta-1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ3JzQ0IycldabVE0cWc5cG1BSzhWVXdUbWczZTZLV2J6Y3VsWVZVOHhjQU92WXI3bjY0WCt0cXVDWHVDakJyZndtYmtKRWMzWjM5NkNtMytKQWRmc2M2K0hJWkJMZ2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDYzOTQyCWZpbGU6RWNsaXBzZSBMYXVuY2hlcl8xLjAuMC1iZXRhLTJfeDY0LXNldHVwLmV4ZQpURVlteHZhUDg4em4wb2k2cUEwM3JBVjYzZ0t4akY5TExkMXdWSmR3c3VURW9ia2x2NUxDRHhIYkg0ZmhOUG9RcUtIQ3dKMUdUcVhCYXRrT3haK1ZCUT09Cg==",
+      "url": "https://github.com/Brezzeyboi/aether-releases/releases/download/v1.0.0-beta-2/Eclipse.Launcher_1.0.0-beta-2_x64-setup.exe"
     }
   }
 }
